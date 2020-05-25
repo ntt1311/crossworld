@@ -347,7 +347,7 @@ end
 
 function UIInventory:setContentHeight(height)
   local contentsPanel = self:getChildById('contentsPanel')
-  local minHeight = 400
+  local minHeight = contentsPanel:getMarginTop() + contentsPanel:getMarginBottom() + contentsPanel:getPaddingTop() + contentsPanel:getPaddingBottom()
 
   local resizeBorder = self:getChildById('bottomResizeBorder')
   resizeBorder:setParentSize(minHeight + height)
@@ -355,7 +355,7 @@ end
 
 function UIInventory:setContentMinimumHeight(height)
   local contentsPanel = self:getChildById('contentsPanel')
-  local minHeight = 400
+  local minHeight = contentsPanel:getMarginTop() + contentsPanel:getMarginBottom() + contentsPanel:getPaddingTop() + contentsPanel:getPaddingBottom()
 
   local resizeBorder = self:getChildById('bottomResizeBorder')
   resizeBorder:setMinimum(minHeight + height)
@@ -363,7 +363,7 @@ end
 
 function UIInventory:setContentMaximumHeight(height)
   local contentsPanel = self:getChildById('contentsPanel')
-  local minHeight = 400
+  local minHeight = contentsPanel:getMarginTop() + contentsPanel:getMarginBottom() + contentsPanel:getPaddingTop() + contentsPanel:getPaddingBottom()
 
   local resizeBorder = self:getChildById('bottomResizeBorder')
   resizeBorder:setMaximum(minHeight + height)
