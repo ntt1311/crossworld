@@ -1,0 +1,9 @@
+Module
+  name: game_eng
+  description: Profidse
+  author: Noninhouh
+  website: none
+  sandboxed: true
+  scripts: [ eng ]
+  @onLoad: init()
+  @onUnload: terminate()

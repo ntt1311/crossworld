@@ -80,12 +80,12 @@ PurseButton < Button
   icon-size: 24 24
   icon-offset: 1 1
 
-MiniWindow
+Inventory
   id: inventoryWindow
   !text: tr('Inventory')
   icon: /images/topbuttons/inventory
   height: 175
-  @onClose: modules.game_inventory.onMiniWindowClose()
+  @onClose: modules.game_inventory.onInventoryClose()
   &save: true
 
   MiniWindowContents

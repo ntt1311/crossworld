@@ -4,7 +4,7 @@ PageButton < Button
 
 
 ContainerWindow < MiniWindow
-  height: 150
+  height: 400
 
   UIItem
     id: containerItemWidget
