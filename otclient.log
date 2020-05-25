@@ -1,0 +1,2234 @@
+﻿== application started at May 12 2020 19:18:09
+OTClient 0.6.3 rev 2474 (custom) built on Dec 11 2015 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+Locale 'pt' is missing 19 translations.
+Using configured locale: pt
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Unable to translate: "Don't stretch/shrink Game Window"
+Loaded module 'client_options'
+Unable to translate: "Authenticator Token"
+Unable to translate: "Stay logged during session"
+Unable to translate: "Make sure that your client uses
+the correct game client version"
+Unable to translate: "Client Version"
+Loaded module 'client_entergame'
+Loaded module 'client_terminal'
+Loaded module 'client_modulemanager'
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Unable to translate: "Disable chat mode, allow to walk using ASDW"
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Unable to translate: "Open purse"
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Unable to translate: "Hold left mouse button to navigate
+Scroll mouse middle button to zoom
+Right mouse button to create map marks
+Press Ctrl+Shift+M to view the entire game map"
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+Unable to translate: "Reset selection, filters & search"
+Unable to translate: "Buyer Name"
+Unable to translate: "Auction End"
+Unable to translate: "Seller Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Loaded module 'game_market'
+Unable to translate: "Filters"
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+Unable to translate: "Unjustified Points"
+Unable to translate: "Unjustified Points"
+Unable to translate: "Open PvP"
+Unable to translate: "Open PvP Situations"
+Unable to translate: "Skull Time"
+Loaded module 'game_unjustifiedpoints'
+Startup done :]
+Unable to translate: "Market Error"
+Unable to translate: "Market Error"
+Unable to translate: "Market Error"
+Unable to translate: "Market Error"
+Exiting application..
+== application started at May 12 2020 22:41:06
+OTClient 0.6.3 rev 2474 (custom) built on Dec 11 2015 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+Locale 'pt' is missing 19 translations.
+Using configured locale: pt
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Unable to translate: "Don't stretch/shrink Game Window"
+Loaded module 'client_options'
+Unable to translate: "Authenticator Token"
+Unable to translate: "Stay logged during session"
+Unable to translate: "Make sure that your client uses
+the correct game client version"
+Unable to translate: "Client Version"
+Loaded module 'client_entergame'
+Loaded module 'client_terminal'
+Loaded module 'client_modulemanager'
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Unable to translate: "Disable chat mode, allow to walk using ASDW"
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Unable to translate: "Open purse"
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Unable to translate: "Hold left mouse button to navigate
+Scroll mouse middle button to zoom
+Right mouse button to create map marks
+Press Ctrl+Shift+M to view the entire game map"
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+Unable to translate: "Reset selection, filters & search"
+Unable to translate: "Buyer Name"
+Unable to translate: "Auction End"
+Unable to translate: "Seller Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Loaded module 'game_market'
+Unable to translate: "Filters"
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+Unable to translate: "Unjustified Points"
+Unable to translate: "Unjustified Points"
+Unable to translate: "Open PvP"
+Unable to translate: "Open PvP Situations"
+Unable to translate: "Skull Time"
+Loaded module 'game_unjustifiedpoints'
+Startup done :]
+Exiting application..
+== application started at May 12 2020 22:45:45
+OTClient 0.6.3 rev 2474 (custom) built on Dec 11 2015 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+Locale 'pt' is missing 19 translations.
+Using configured locale: pt
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Unable to translate: "Don't stretch/shrink Game Window"
+Loaded module 'client_options'
+Unable to translate: "Authenticator Token"
+Unable to translate: "Stay logged during session"
+Unable to translate: "Make sure that your client uses
+the correct game client version"
+Unable to translate: "Client Version"
+Loaded module 'client_entergame'
+Loaded module 'client_terminal'
+Loaded module 'client_modulemanager'
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Unable to translate: "Disable chat mode, allow to walk using ASDW"
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Unable to translate: "Open purse"
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Unable to translate: "Hold left mouse button to navigate
+Scroll mouse middle button to zoom
+Right mouse button to create map marks
+Press Ctrl+Shift+M to view the entire game map"
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+Unable to translate: "Reset selection, filters & search"
+Unable to translate: "Buyer Name"
+Unable to translate: "Auction End"
+Unable to translate: "Seller Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Loaded module 'game_market'
+Unable to translate: "Filters"
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+Unable to translate: "Unjustified Points"
+Unable to translate: "Unjustified Points"
+Unable to translate: "Open PvP"
+Unable to translate: "Open PvP Situations"
+Unable to translate: "Skull Time"
+Loaded module 'game_unjustifiedpoints'
+Startup done :]
+Exiting application..
+== application started at May 20 2020 23:48:28
+OTClient 0.6.3 rev 2474 (custom) built on Dec 11 2015 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+Locale 'pt' is missing 19 translations.
+Using configured locale: pt
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Unable to translate: "Don't stretch/shrink Game Window"
+Loaded module 'client_options'
+Unable to translate: "Authenticator Token"
+Unable to translate: "Stay logged during session"
+Unable to translate: "Make sure that your client uses
+the correct game client version"
+Unable to translate: "Client Version"
+Loaded module 'client_entergame'
+Loaded module 'client_terminal'
+Loaded module 'client_modulemanager'
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Unable to translate: "Disable chat mode, allow to walk using ASDW"
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Unable to translate: "Open purse"
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Unable to translate: "Hold left mouse button to navigate
+Scroll mouse middle button to zoom
+Right mouse button to create map marks
+Press Ctrl+Shift+M to view the entire game map"
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+Unable to translate: "Reset selection, filters & search"
+Unable to translate: "Buyer Name"
+Unable to translate: "Auction End"
+Unable to translate: "Seller Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Loaded module 'game_market'
+Unable to translate: "Filters"
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+Unable to translate: "Unjustified Points"
+Unable to translate: "Unjustified Points"
+Unable to translate: "Open PvP"
+Unable to translate: "Open PvP Situations"
+Unable to translate: "Skull Time"
+Loaded module 'game_unjustifiedpoints'
+Startup done :]
+ERROR: protected lua call failed: LUA ERROR:
+/corelib/util.lua:55: bad argument #1 to 'pairs' (table expected, got nil)
+stack traceback:
+	[C]: at 0x0074ab50
+	[C]: in function 'pairs'
+	/corelib/util.lua:55: in function 'connect'
+	/corelib/keyboard.lua:139: in function 'bindKeyPress'
+	/game_hotkeys/hotkeys_manager.lua:363: in function 'addKeyCombo'
+	/game_hotkeys/hotkeys_manager.lua:160: in function 'load'
+	/game_hotkeys/hotkeys_manager.lua:191: in function 'reload'
+	/game_hotkeys/hotkeys_manager.lua:105: in function </game_hotkeys/hotkeys_manager.lua:104>
+ERROR: unable to disconnect
+stack traceback:
+	/corelib/util.lua:96: in function 'disconnect'
+	/corelib/keyboard.lua:171: in function 'unbindKeyPress'
+	/game_hotkeys/hotkeys_manager.lua:175: in function 'unload'
+	/game_hotkeys/hotkeys_manager.lua:110: in function </game_hotkeys/hotkeys_manager.lua:109>
+ERROR: protected lua call failed: LUA ERROR:
+/corelib/util.lua:99: bad argument #1 to 'pairs' (table expected, got nil)
+stack traceback:
+	[C]: at 0x0074ab50
+	[C]: in function 'pairs'
+	/corelib/util.lua:99: in function 'disconnect'
+	/corelib/keyboard.lua:171: in function 'unbindKeyPress'
+	/game_hotkeys/hotkeys_manager.lua:175: in function 'unload'
+	/game_hotkeys/hotkeys_manager.lua:110: in function </game_hotkeys/hotkeys_manager.lua:109>
+Exiting application..
+ERROR: unable to disconnect
+stack traceback:
+	/corelib/util.lua:96: in function 'disconnect'
+	/corelib/keyboard.lua:171: in function 'unbindKeyPress'
+	/game_hotkeys/hotkeys_manager.lua:175: in function 'unload'
+	/game_hotkeys/hotkeys_manager.lua:91: in function 'terminate'
+	/game_hotkeys/hotkeys_manager.otmod:9:[@onUnload]:1: in main chunk
+ERROR: Unable to unload module 'game_hotkeys': LUA ERROR:
+/corelib/util.lua:99: bad argument #1 to 'pairs' (table expected, got nil)
+stack traceback:
+	[C]: at 0x0074ab50
+	[C]: in function 'pairs'
+	/corelib/util.lua:99: in function 'disconnect'
+	/corelib/keyboard.lua:171: in function 'unbindKeyPress'
+	/game_hotkeys/hotkeys_manager.lua:175: in function 'unload'
+	/game_hotkeys/hotkeys_manager.lua:91: in function 'terminate'
+	/game_hotkeys/hotkeys_manager.otmod:9:[@onUnload]:1: in main chunk
+WARNING: widget 'widget198' was not explicitly destroyed
+== application started at May 21 2020 12:35:13
+OTClient 0.6.3 rev 2474 (custom) built on Dec 11 2015 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+Locale 'pt' is missing 19 translations.
+Using configured locale: pt
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Unable to translate: "Don't stretch/shrink Game Window"
+Loaded module 'client_options'
+Unable to translate: "Authenticator Token"
+Unable to translate: "Stay logged during session"
+Unable to translate: "Make sure that your client uses
+the correct game client version"
+Unable to translate: "Client Version"
+Loaded module 'client_entergame'
+Loaded module 'client_terminal'
+Loaded module 'client_modulemanager'
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Unable to translate: "Disable chat mode, allow to walk using ASDW"
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Unable to translate: "Open purse"
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Unable to translate: "Hold left mouse button to navigate
+Scroll mouse middle button to zoom
+Right mouse button to create map marks
+Press Ctrl+Shift+M to view the entire game map"
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+Unable to translate: "Reset selection, filters & search"
+Unable to translate: "Buyer Name"
+Unable to translate: "Auction End"
+Unable to translate: "Seller Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Loaded module 'game_market'
+Unable to translate: "Filters"
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+Unable to translate: "Unjustified Points"
+Unable to translate: "Unjustified Points"
+Unable to translate: "Open PvP"
+Unable to translate: "Open PvP Situations"
+Unable to translate: "Skull Time"
+Loaded module 'game_unjustifiedpoints'
+Startup done :]
+ERROR: protected lua call failed: LUA ERROR:
+/corelib/util.lua:55: bad argument #1 to 'pairs' (table expected, got nil)
+stack traceback:
+	[C]: at 0x0085ab50
+	[C]: in function 'pairs'
+	/corelib/util.lua:55: in function 'connect'
+	/corelib/keyboard.lua:139: in function 'bindKeyPress'
+	/game_hotkeys/hotkeys_manager.lua:363: in function 'addKeyCombo'
+	/game_hotkeys/hotkeys_manager.lua:160: in function 'load'
+	/game_hotkeys/hotkeys_manager.lua:191: in function 'reload'
+	/game_hotkeys/hotkeys_manager.lua:105: in function </game_hotkeys/hotkeys_manager.lua:104>
+ERROR: unable to disconnect
+stack traceback:
+	/corelib/util.lua:96: in function 'disconnect'
+	/corelib/keyboard.lua:171: in function 'unbindKeyPress'
+	/game_hotkeys/hotkeys_manager.lua:175: in function 'unload'
+	/game_hotkeys/hotkeys_manager.lua:110: in function </game_hotkeys/hotkeys_manager.lua:109>
+ERROR: protected lua call failed: LUA ERROR:
+/corelib/util.lua:99: bad argument #1 to 'pairs' (table expected, got nil)
+stack traceback:
+	[C]: at 0x0085ab50
+	[C]: in function 'pairs'
+	/corelib/util.lua:99: in function 'disconnect'
+	/corelib/keyboard.lua:171: in function 'unbindKeyPress'
+	/game_hotkeys/hotkeys_manager.lua:175: in function 'unload'
+	/game_hotkeys/hotkeys_manager.lua:110: in function </game_hotkeys/hotkeys_manager.lua:109>
+ERROR: unable to disconnect
+stack traceback:
+	/corelib/util.lua:96: in function 'disconnect'
+	/corelib/keyboard.lua:171: in function 'unbindKeyPress'
+	/game_hotkeys/hotkeys_manager.lua:175: in function 'unload'
+	/game_hotkeys/hotkeys_manager.lua:190: in function 'reload'
+	/game_hotkeys/hotkeys_manager.lua:105: in function </game_hotkeys/hotkeys_manager.lua:104>
+ERROR: protected lua call failed: LUA ERROR:
+/corelib/util.lua:99: bad argument #1 to 'pairs' (table expected, got nil)
+stack traceback:
+	[C]: at 0x0085ab50
+	[C]: in function 'pairs'
+	/corelib/util.lua:99: in function 'disconnect'
+	/corelib/keyboard.lua:171: in function 'unbindKeyPress'
+	/game_hotkeys/hotkeys_manager.lua:175: in function 'unload'
+	/game_hotkeys/hotkeys_manager.lua:190: in function 'reload'
+	/game_hotkeys/hotkeys_manager.lua:105: in function </game_hotkeys/hotkeys_manager.lua:104>
+Unable to translate: "Enable chat mode"
+Unable to translate: "Disable chat mode, allow to walk using ASDW"
+ERROR: ProtocolGame parse message exception (11 bytes unread, last opcode is 246, prev opcode is -1): unhandled opcode 246
+ERROR: unable to disconnect
+stack traceback:
+	/corelib/util.lua:96: in function 'disconnect'
+	/corelib/keyboard.lua:171: in function 'unbindKeyPress'
+	/game_hotkeys/hotkeys_manager.lua:175: in function 'unload'
+	/game_hotkeys/hotkeys_manager.lua:110: in function </game_hotkeys/hotkeys_manager.lua:109>
+ERROR: protected lua call failed: LUA ERROR:
+/corelib/util.lua:99: bad argument #1 to 'pairs' (table expected, got nil)
+stack traceback:
+	[C]: at 0x0085ab50
+	[C]: in function 'pairs'
+	/corelib/util.lua:99: in function 'disconnect'
+	/corelib/keyboard.lua:171: in function 'unbindKeyPress'
+	/game_hotkeys/hotkeys_manager.lua:175: in function 'unload'
+	/game_hotkeys/hotkeys_manager.lua:110: in function </game_hotkeys/hotkeys_manager.lua:109>
+Exiting application..
+ERROR: unable to disconnect
+stack traceback:
+	/corelib/util.lua:96: in function 'disconnect'
+	/corelib/keyboard.lua:171: in function 'unbindKeyPress'
+	/game_hotkeys/hotkeys_manager.lua:175: in function 'unload'
+	/game_hotkeys/hotkeys_manager.lua:91: in function 'terminate'
+	/game_hotkeys/hotkeys_manager.otmod:9:[@onUnload]:1: in main chunk
+ERROR: Unable to unload module 'game_hotkeys': LUA ERROR:
+/corelib/util.lua:99: bad argument #1 to 'pairs' (table expected, got nil)
+stack traceback:
+	[C]: at 0x0085ab50
+	[C]: in function 'pairs'
+	/corelib/util.lua:99: in function 'disconnect'
+	/corelib/keyboard.lua:171: in function 'unbindKeyPress'
+	/game_hotkeys/hotkeys_manager.lua:175: in function 'unload'
+	/game_hotkeys/hotkeys_manager.lua:91: in function 'terminate'
+	/game_hotkeys/hotkeys_manager.otmod:9:[@onUnload]:1: in main chunk
+WARNING: widget 'widget198' was not explicitly destroyed
+== application started at May 21 2020 12:37:36
+OTClient 0.6.3 rev 2474 (custom) built on Dec 11 2015 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+Locale 'pt' is missing 19 translations.
+Using configured locale: pt
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Unable to translate: "Don't stretch/shrink Game Window"
+Loaded module 'client_options'
+Unable to translate: "Authenticator Token"
+Unable to translate: "Stay logged during session"
+Unable to translate: "Make sure that your client uses
+the correct game client version"
+Unable to translate: "Client Version"
+Loaded module 'client_entergame'
+Loaded module 'client_terminal'
+Loaded module 'client_modulemanager'
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Unable to translate: "Disable chat mode, allow to walk using ASDW"
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Unable to translate: "Open purse"
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Unable to translate: "Hold left mouse button to navigate
+Scroll mouse middle button to zoom
+Right mouse button to create map marks
+Press Ctrl+Shift+M to view the entire game map"
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+Unable to translate: "Reset selection, filters & search"
+Unable to translate: "Buyer Name"
+Unable to translate: "Auction End"
+Unable to translate: "Seller Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Loaded module 'game_market'
+Unable to translate: "Filters"
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+Unable to translate: "Unjustified Points"
+Unable to translate: "Unjustified Points"
+Unable to translate: "Open PvP"
+Unable to translate: "Open PvP Situations"
+Unable to translate: "Skull Time"
+Loaded module 'game_unjustifiedpoints'
+Startup done :]
+Exiting application..
+== application started at May 21 2020 12:38:50
+OTClient 0.6.3 rev 2474 (custom) built on Dec 11 2015 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+Locale 'pt' is missing 19 translations.
+Using configured locale: pt
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Unable to translate: "Don't stretch/shrink Game Window"
+Loaded module 'client_options'
+Unable to translate: "Authenticator Token"
+Unable to translate: "Stay logged during session"
+Unable to translate: "Make sure that your client uses
+the correct game client version"
+Unable to translate: "Client Version"
+Loaded module 'client_entergame'
+Loaded module 'client_terminal'
+Loaded module 'client_modulemanager'
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Unable to translate: "Disable chat mode, allow to walk using ASDW"
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Unable to translate: "Open purse"
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Unable to translate: "Hold left mouse button to navigate
+Scroll mouse middle button to zoom
+Right mouse button to create map marks
+Press Ctrl+Shift+M to view the entire game map"
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+Unable to translate: "Reset selection, filters & search"
+Unable to translate: "Buyer Name"
+Unable to translate: "Auction End"
+Unable to translate: "Seller Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Loaded module 'game_market'
+Unable to translate: "Filters"
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+Unable to translate: "Unjustified Points"
+Unable to translate: "Unjustified Points"
+Unable to translate: "Open PvP"
+Unable to translate: "Open PvP Situations"
+Unable to translate: "Skull Time"
+Loaded module 'game_unjustifiedpoints'
+Startup done :]
+Exiting application..
+== application started at May 21 2020 12:41:17
+OTClient 0.6.3 rev 2474 (custom) built on Dec 11 2015 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+Locale 'pt' is missing 19 translations.
+Using configured locale: pt
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Unable to translate: "Don't stretch/shrink Game Window"
+Loaded module 'client_options'
+Unable to translate: "Authenticator Token"
+Unable to translate: "Stay logged during session"
+Unable to translate: "Make sure that your client uses
+the correct game client version"
+Unable to translate: "Client Version"
+Loaded module 'client_entergame'
+Loaded module 'client_terminal'
+Loaded module 'client_modulemanager'
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Unable to translate: "Disable chat mode, allow to walk using ASDW"
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Unable to translate: "Open purse"
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Unable to translate: "Hold left mouse button to navigate
+Scroll mouse middle button to zoom
+Right mouse button to create map marks
+Press Ctrl+Shift+M to view the entire game map"
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+Unable to translate: "Reset selection, filters & search"
+Unable to translate: "Buyer Name"
+Unable to translate: "Auction End"
+Unable to translate: "Seller Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Loaded module 'game_market'
+Unable to translate: "Filters"
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+Unable to translate: "Unjustified Points"
+Unable to translate: "Unjustified Points"
+Unable to translate: "Open PvP"
+Unable to translate: "Open PvP Situations"
+Unable to translate: "Skull Time"
+Loaded module 'game_unjustifiedpoints'
+Startup done :]
+Unable to translate: "Browse Field"
+Unable to translate: "Browse Field"
+Unable to translate: "Browse Field"
+Unable to translate: "Browse Field"
+Unable to translate: "Browse Field"
+Unable to translate: "Browse Field"
+Unable to translate: "Browse Field"
+Unable to translate: "Browse Field"
+Unable to translate: "Browse Field"
+Unable to translate: "Browse Field"
+Unable to translate: "Browse Field"
+Unable to translate: "Browse Field"
+Unable to translate: "Browse Field"
+Unable to translate: "Browse Field"
+Unable to translate: "Browse Field"
+Unable to translate: "Browse Field"
+Unable to translate: "Browse Field"
+Unable to translate: "Browse Field"
+Exiting application..
+== application started at May 21 2020 16:38:42
+OTClient 0.6.3 rev 2474 (custom) built on Dec 11 2015 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+Locale 'pt' is missing 19 translations.
+Using configured locale: pt
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Unable to translate: "Don't stretch/shrink Game Window"
+Loaded module 'client_options'
+Unable to translate: "Authenticator Token"
+Unable to translate: "Stay logged during session"
+Unable to translate: "Make sure that your client uses
+the correct game client version"
+Unable to translate: "Client Version"
+Loaded module 'client_entergame'
+Loaded module 'client_terminal'
+Loaded module 'client_modulemanager'
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Unable to translate: "Disable chat mode, allow to walk using ASDW"
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Unable to translate: "Open purse"
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Unable to translate: "Hold left mouse button to navigate
+Scroll mouse middle button to zoom
+Right mouse button to create map marks
+Press Ctrl+Shift+M to view the entire game map"
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+Unable to translate: "Reset selection, filters & search"
+Unable to translate: "Buyer Name"
+Unable to translate: "Auction End"
+Unable to translate: "Seller Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Loaded module 'game_market'
+Unable to translate: "Filters"
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+Unable to translate: "Unjustified Points"
+Unable to translate: "Unjustified Points"
+Unable to translate: "Open PvP"
+Unable to translate: "Open PvP Situations"
+Unable to translate: "Skull Time"
+Loaded module 'game_unjustifiedpoints'
+Startup done :]
+Unable to translate: "Browse Field"
+Unable to translate: "Browse Field"
+Exiting application..
+== application started at May 21 2020 16:40:27
+OTClient 0.6.3 rev 2474 (custom) built on Dec 11 2015 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+Locale 'pt' is missing 19 translations.
+Using configured locale: pt
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Unable to translate: "Don't stretch/shrink Game Window"
+Loaded module 'client_options'
+Unable to translate: "Authenticator Token"
+Unable to translate: "Stay logged during session"
+Unable to translate: "Make sure that your client uses
+the correct game client version"
+Unable to translate: "Client Version"
+Loaded module 'client_entergame'
+Loaded module 'client_terminal'
+Loaded module 'client_modulemanager'
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Unable to translate: "Disable chat mode, allow to walk using ASDW"
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Unable to translate: "Open purse"
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Unable to translate: "Hold left mouse button to navigate
+Scroll mouse middle button to zoom
+Right mouse button to create map marks
+Press Ctrl+Shift+M to view the entire game map"
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+Unable to translate: "Reset selection, filters & search"
+Unable to translate: "Buyer Name"
+Unable to translate: "Auction End"
+Unable to translate: "Seller Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Loaded module 'game_market'
+Unable to translate: "Filters"
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+Unable to translate: "Unjustified Points"
+Unable to translate: "Unjustified Points"
+Unable to translate: "Open PvP"
+Unable to translate: "Open PvP Situations"
+Unable to translate: "Skull Time"
+Loaded module 'game_unjustifiedpoints'
+Startup done :]
+Unable to translate: "Browse Field"
+Exiting application..
+== application started at May 21 2020 16:43:44
+OTClient 0.6.3 rev 2474 (custom) built on Dec 11 2015 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+Locale 'pt' is missing 19 translations.
+Using configured locale: pt
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Unable to translate: "Don't stretch/shrink Game Window"
+Loaded module 'client_options'
+Unable to translate: "Authenticator Token"
+Unable to translate: "Stay logged during session"
+Unable to translate: "Make sure that your client uses
+the correct game client version"
+Unable to translate: "Client Version"
+Loaded module 'client_entergame'
+Loaded module 'client_terminal'
+Loaded module 'client_modulemanager'
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Unable to translate: "Disable chat mode, allow to walk using ASDW"
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Unable to translate: "Open purse"
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Unable to translate: "Hold left mouse button to navigate
+Scroll mouse middle button to zoom
+Right mouse button to create map marks
+Press Ctrl+Shift+M to view the entire game map"
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+Unable to translate: "Reset selection, filters & search"
+Unable to translate: "Buyer Name"
+Unable to translate: "Auction End"
+Unable to translate: "Seller Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Loaded module 'game_market'
+Unable to translate: "Filters"
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+Unable to translate: "Unjustified Points"
+Unable to translate: "Unjustified Points"
+Unable to translate: "Open PvP"
+Unable to translate: "Open PvP Situations"
+Unable to translate: "Skull Time"
+Loaded module 'game_unjustifiedpoints'
+Startup done :]
+Unable to translate: "Browse Field"
+Exiting application..
+== application started at May 21 2020 16:45:15
+OTClient 0.6.3 rev 2474 (custom) built on Dec 11 2015 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+Locale 'pt' is missing 19 translations.
+Using configured locale: pt
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Unable to translate: "Don't stretch/shrink Game Window"
+Loaded module 'client_options'
+Unable to translate: "Authenticator Token"
+Unable to translate: "Stay logged during session"
+Unable to translate: "Make sure that your client uses
+the correct game client version"
+Unable to translate: "Client Version"
+Loaded module 'client_entergame'
+Loaded module 'client_terminal'
+Loaded module 'client_modulemanager'
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Unable to translate: "Disable chat mode, allow to walk using ASDW"
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Unable to translate: "Open purse"
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Unable to translate: "Hold left mouse button to navigate
+Scroll mouse middle button to zoom
+Right mouse button to create map marks
+Press Ctrl+Shift+M to view the entire game map"
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+Unable to translate: "Reset selection, filters & search"
+Unable to translate: "Buyer Name"
+Unable to translate: "Auction End"
+Unable to translate: "Seller Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Loaded module 'game_market'
+Unable to translate: "Filters"
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+Unable to translate: "Unjustified Points"
+Unable to translate: "Unjustified Points"
+Unable to translate: "Open PvP"
+Unable to translate: "Open PvP Situations"
+Unable to translate: "Skull Time"
+Loaded module 'game_unjustifiedpoints'
+Startup done :]
+Exiting application..
+== application started at May 21 2020 16:46:41
+OTClient 0.6.3 rev 2474 (custom) built on Dec 11 2015 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+Locale 'pt' is missing 19 translations.
+Using configured locale: pt
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Unable to translate: "Don't stretch/shrink Game Window"
+Loaded module 'client_options'
+Unable to translate: "Authenticator Token"
+Unable to translate: "Stay logged during session"
+Unable to translate: "Make sure that your client uses
+the correct game client version"
+Unable to translate: "Client Version"
+Loaded module 'client_entergame'
+Loaded module 'client_terminal'
+Loaded module 'client_modulemanager'
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Unable to translate: "Disable chat mode, allow to walk using ASDW"
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Unable to translate: "Open purse"
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Unable to translate: "Hold left mouse button to navigate
+Scroll mouse middle button to zoom
+Right mouse button to create map marks
+Press Ctrl+Shift+M to view the entire game map"
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+Unable to translate: "Reset selection, filters & search"
+Unable to translate: "Buyer Name"
+Unable to translate: "Auction End"
+Unable to translate: "Seller Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Loaded module 'game_market'
+Unable to translate: "Filters"
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+Unable to translate: "Unjustified Points"
+Unable to translate: "Unjustified Points"
+Unable to translate: "Open PvP"
+Unable to translate: "Open PvP Situations"
+Unable to translate: "Skull Time"
+Loaded module 'game_unjustifiedpoints'
+Startup done :]
+Unable to translate: "Browse Field"
+Exiting application..
+== application started at May 21 2020 16:56:53
+OTClient 0.6.3 rev 2474 (custom) built on Dec 11 2015 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+Locale 'pt' is missing 19 translations.
+Using configured locale: pt
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Unable to translate: "Don't stretch/shrink Game Window"
+Loaded module 'client_options'
+Unable to translate: "Authenticator Token"
+Unable to translate: "Stay logged during session"
+Unable to translate: "Make sure that your client uses
+the correct game client version"
+Unable to translate: "Client Version"
+Loaded module 'client_entergame'
+Loaded module 'client_terminal'
+Loaded module 'client_modulemanager'
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Unable to translate: "Disable chat mode, allow to walk using ASDW"
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Unable to translate: "Open purse"
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Unable to translate: "Hold left mouse button to navigate
+Scroll mouse middle button to zoom
+Right mouse button to create map marks
+Press Ctrl+Shift+M to view the entire game map"
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+Unable to translate: "Reset selection, filters & search"
+Unable to translate: "Buyer Name"
+Unable to translate: "Auction End"
+Unable to translate: "Seller Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Loaded module 'game_market'
+Unable to translate: "Filters"
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+Unable to translate: "Unjustified Points"
+Unable to translate: "Unjustified Points"
+Unable to translate: "Open PvP"
+Unable to translate: "Open PvP Situations"
+Unable to translate: "Skull Time"
+Loaded module 'game_unjustifiedpoints'
+Startup done :]
+Unable to translate: "Browse Field"
+Exiting application..
+== application started at May 21 2020 16:58:32
+OTClient 0.6.3 rev 2474 (custom) built on Dec 11 2015 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+Locale 'pt' is missing 19 translations.
+Using configured locale: pt
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Unable to translate: "Don't stretch/shrink Game Window"
+Loaded module 'client_options'
+Unable to translate: "Authenticator Token"
+Unable to translate: "Stay logged during session"
+Unable to translate: "Make sure that your client uses
+the correct game client version"
+Unable to translate: "Client Version"
+Loaded module 'client_entergame'
+Loaded module 'client_terminal'
+Loaded module 'client_modulemanager'
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Unable to translate: "Disable chat mode, allow to walk using ASDW"
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Unable to translate: "Open purse"
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Unable to translate: "Hold left mouse button to navigate
+Scroll mouse middle button to zoom
+Right mouse button to create map marks
+Press Ctrl+Shift+M to view the entire game map"
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+Unable to translate: "Reset selection, filters & search"
+Unable to translate: "Buyer Name"
+Unable to translate: "Auction End"
+Unable to translate: "Seller Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Loaded module 'game_market'
+Unable to translate: "Filters"
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+Unable to translate: "Unjustified Points"
+Unable to translate: "Unjustified Points"
+Unable to translate: "Open PvP"
+Unable to translate: "Open PvP Situations"
+Unable to translate: "Skull Time"
+Loaded module 'game_unjustifiedpoints'
+Startup done :]
+Exiting application..
+== application started at May 24 2020 22:10:51
+OTClient 0.6.3 rev 2474 (custom) built on Dec 11 2015 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+Locale 'pt' is missing 19 translations.
+Using configured locale: pt
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Unable to translate: "Don't stretch/shrink Game Window"
+Loaded module 'client_options'
+Unable to translate: "Authenticator Token"
+Unable to translate: "Stay logged during session"
+Unable to translate: "Make sure that your client uses
+the correct game client version"
+Unable to translate: "Client Version"
+Loaded module 'client_entergame'
+Loaded module 'client_terminal'
+Loaded module 'client_modulemanager'
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Unable to translate: "Disable chat mode, allow to walk using ASDW"
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Unable to translate: "Open purse"
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Unable to translate: "Hold left mouse button to navigate
+Scroll mouse middle button to zoom
+Right mouse button to create map marks
+Press Ctrl+Shift+M to view the entire game map"
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+Unable to translate: "Reset selection, filters & search"
+Unable to translate: "Buyer Name"
+Unable to translate: "Auction End"
+Unable to translate: "Seller Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Loaded module 'game_market'
+Unable to translate: "Filters"
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+Unable to translate: "Unjustified Points"
+Unable to translate: "Unjustified Points"
+Unable to translate: "Open PvP"
+Unable to translate: "Open PvP Situations"
+Unable to translate: "Skull Time"
+Loaded module 'game_unjustifiedpoints'
+Startup done :]
+Unable to translate: "Browse Field"
+Exiting application..
+== application started at May 24 2020 22:12:56
+OTClient 0.6.3 rev 2474 (custom) built on Dec 11 2015 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+Locale 'pt' is missing 19 translations.
+Using configured locale: pt
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Unable to translate: "Don't stretch/shrink Game Window"
+Loaded module 'client_options'
+Unable to translate: "Authenticator Token"
+Unable to translate: "Stay logged during session"
+Unable to translate: "Make sure that your client uses
+the correct game client version"
+Unable to translate: "Client Version"
+Loaded module 'client_entergame'
+Loaded module 'client_terminal'
+Loaded module 'client_modulemanager'
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Unable to translate: "Disable chat mode, allow to walk using ASDW"
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Unable to translate: "Open purse"
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Unable to translate: "Hold left mouse button to navigate
+Scroll mouse middle button to zoom
+Right mouse button to create map marks
+Press Ctrl+Shift+M to view the entire game map"
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+Unable to translate: "Reset selection, filters & search"
+Unable to translate: "Buyer Name"
+Unable to translate: "Auction End"
+Unable to translate: "Seller Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Loaded module 'game_market'
+Unable to translate: "Filters"
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+ERROR: Unable to find module 'game_unjustifiedpoints' required by 'game_interface'
+Startup done :]
+Exiting application..
+== application started at May 24 2020 22:14:41
+OTClient 0.6.3 rev 2474 (custom) built on Dec 11 2015 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+Locale 'pt' is missing 19 translations.
+Using configured locale: pt
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Unable to translate: "Don't stretch/shrink Game Window"
+Loaded module 'client_options'
+Unable to translate: "Authenticator Token"
+Unable to translate: "Stay logged during session"
+Unable to translate: "Make sure that your client uses
+the correct game client version"
+Unable to translate: "Client Version"
+Loaded module 'client_entergame'
+Loaded module 'client_terminal'
+Loaded module 'client_modulemanager'
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Unable to translate: "Disable chat mode, allow to walk using ASDW"
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Unable to translate: "Open purse"
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Unable to translate: "Hold left mouse button to navigate
+Scroll mouse middle button to zoom
+Right mouse button to create map marks
+Press Ctrl+Shift+M to view the entire game map"
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+Unable to translate: "Reset selection, filters & search"
+Unable to translate: "Buyer Name"
+Unable to translate: "Auction End"
+Unable to translate: "Seller Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Loaded module 'game_market'
+Unable to translate: "Filters"
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+ERROR: Unable to find module 'game_unjustifiedpoints' required by 'game_interface'
+Startup done :]
+Exiting application..
+== application started at May 24 2020 22:15:06
+OTClient 0.6.3 rev 2474 (custom) built on Dec 11 2015 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+Locale 'pt' is missing 19 translations.
+Using configured locale: pt
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Unable to translate: "Don't stretch/shrink Game Window"
+Loaded module 'client_options'
+Unable to translate: "Authenticator Token"
+Unable to translate: "Stay logged during session"
+Unable to translate: "Make sure that your client uses
+the correct game client version"
+Unable to translate: "Client Version"
+Loaded module 'client_entergame'
+Loaded module 'client_terminal'
+Loaded module 'client_modulemanager'
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Unable to translate: "Disable chat mode, allow to walk using ASDW"
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Unable to translate: "Open purse"
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Unable to translate: "Hold left mouse button to navigate
+Scroll mouse middle button to zoom
+Right mouse button to create map marks
+Press Ctrl+Shift+M to view the entire game map"
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+Unable to translate: "Reset selection, filters & search"
+Unable to translate: "Buyer Name"
+Unable to translate: "Auction End"
+Unable to translate: "Seller Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Loaded module 'game_market'
+Unable to translate: "Filters"
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+ERROR: Unable to find module 'game_unjustifiedpoints' required by 'game_interface'
+Startup done :]
+Exiting application..
+== application started at May 24 2020 22:19:02
+OTClient 0.6.3 rev 2474 (custom) built on Dec 11 2015 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+Locale 'pt' is missing 19 translations.
+Using configured locale: pt
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Unable to translate: "Don't stretch/shrink Game Window"
+Loaded module 'client_options'
+Unable to translate: "Authenticator Token"
+Unable to translate: "Stay logged during session"
+Unable to translate: "Make sure that your client uses
+the correct game client version"
+Unable to translate: "Client Version"
+Loaded module 'client_entergame'
+Loaded module 'client_terminal'
+Loaded module 'client_modulemanager'
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Unable to translate: "Disable chat mode, allow to walk using ASDW"
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Unable to translate: "Open purse"
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Unable to translate: "Hold left mouse button to navigate
+Scroll mouse middle button to zoom
+Right mouse button to create map marks
+Press Ctrl+Shift+M to view the entire game map"
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+Unable to translate: "Reset selection, filters & search"
+Unable to translate: "Buyer Name"
+Unable to translate: "Auction End"
+Unable to translate: "Seller Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Loaded module 'game_market'
+Unable to translate: "Filters"
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+ERROR: Unable to find module 'game_unjustifiedpoints' required by 'game_interface'
+Startup done :]
+Exiting application..
+== application started at May 24 2020 22:35:52
+OTClient 0.6.3 rev 2474 (custom) built on Dec 11 2015 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+Locale 'pt' is missing 19 translations.
+Using configured locale: pt
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Unable to translate: "Don't stretch/shrink Game Window"
+Loaded module 'client_options'
+Unable to translate: "Authenticator Token"
+Unable to translate: "Stay logged during session"
+Unable to translate: "Make sure that your client uses
+the correct game client version"
+Unable to translate: "Client Version"
+Loaded module 'client_entergame'
+Loaded module 'client_terminal'
+Loaded module 'client_modulemanager'
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Unable to translate: "Disable chat mode, allow to walk using ASDW"
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Unable to translate: "Open purse"
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Unable to translate: "Hold left mouse button to navigate
+Scroll mouse middle button to zoom
+Right mouse button to create map marks
+Press Ctrl+Shift+M to view the entire game map"
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+Unable to translate: "Reset selection, filters & search"
+Unable to translate: "Buyer Name"
+Unable to translate: "Auction End"
+Unable to translate: "Seller Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Loaded module 'game_market'
+Unable to translate: "Filters"
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+ERROR: Unable to find module 'game_unjustifiedpoints' required by 'game_interface'
+Startup done :]
+Exiting application..
+== application started at May 24 2020 22:38:01
+OTClient 0.6.3 rev 2474 (custom) built on Dec 11 2015 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+Locale 'pt' is missing 19 translations.
+Using configured locale: pt
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Unable to translate: "Don't stretch/shrink Game Window"
+Loaded module 'client_options'
+Unable to translate: "Authenticator Token"
+Unable to translate: "Stay logged during session"
+Unable to translate: "Make sure that your client uses
+the correct game client version"
+Unable to translate: "Client Version"
+Loaded module 'client_entergame'
+Loaded module 'client_terminal'
+Loaded module 'client_modulemanager'
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Unable to translate: "Disable chat mode, allow to walk using ASDW"
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Unable to translate: "Open purse"
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Unable to translate: "Hold left mouse button to navigate
+Scroll mouse middle button to zoom
+Right mouse button to create map marks
+Press Ctrl+Shift+M to view the entire game map"
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+Unable to translate: "Reset selection, filters & search"
+Unable to translate: "Buyer Name"
+Unable to translate: "Auction End"
+Unable to translate: "Seller Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Loaded module 'game_market'
+Unable to translate: "Filters"
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+ERROR: Unable to find module 'game_unjustifiedpoints' required by 'game_interface'
+Startup done :]
+Exiting application..
+ERROR: Unable to unload module 'game_hotkeys': LUA ERROR:
+/game_hotkeys/hotkeys_manager.lua:93: attempt to index global 'hotkeysButton' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/game_hotkeys/hotkeys_manager.lua:93: in function 'terminate'
+	/game_hotkeys/hotkeys_manager.otmod:9:[@onUnload]:1: in main chunk
+WARNING: widget 'widget197' was not explicitly destroyed
+== application started at May 24 2020 22:40:12
+OTClient 0.6.3 rev 2474 (custom) built on Dec 11 2015 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+Locale 'pt' is missing 19 translations.
+Using configured locale: pt
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Unable to translate: "Don't stretch/shrink Game Window"
+Loaded module 'client_options'
+Unable to translate: "Authenticator Token"
+Unable to translate: "Stay logged during session"
+Unable to translate: "Make sure that your client uses
+the correct game client version"
+Unable to translate: "Client Version"
+Loaded module 'client_entergame'
+Loaded module 'client_terminal'
+Loaded module 'client_modulemanager'
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Unable to translate: "Disable chat mode, allow to walk using ASDW"
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Unable to translate: "Open purse"
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Unable to translate: "Hold left mouse button to navigate
+Scroll mouse middle button to zoom
+Right mouse button to create map marks
+Press Ctrl+Shift+M to view the entire game map"
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+Unable to translate: "Reset selection, filters & search"
+Unable to translate: "Buyer Name"
+Unable to translate: "Auction End"
+Unable to translate: "Seller Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Loaded module 'game_market'
+Unable to translate: "Filters"
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+ERROR: Unable to find module 'game_unjustifiedpoints' required by 'game_interface'
+Startup done :]
+Exiting application..
+ERROR: Unable to unload module 'game_hotkeys': LUA ERROR:
+/game_hotkeys/hotkeys_manager.lua:93: attempt to index global 'hotkeysButton' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/game_hotkeys/hotkeys_manager.lua:93: in function 'terminate'
+	/game_hotkeys/hotkeys_manager.otmod:9:[@onUnload]:1: in main chunk
+WARNING: widget 'widget197' was not explicitly destroyed
+== application started at May 24 2020 22:44:20
+OTClient 0.6.3 rev 2474 (custom) built on Dec 11 2015 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+Locale 'pt' is missing 19 translations.
+Using configured locale: pt
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Unable to translate: "Don't stretch/shrink Game Window"
+Loaded module 'client_options'
+Unable to translate: "Authenticator Token"
+Unable to translate: "Stay logged during session"
+Unable to translate: "Make sure that your client uses
+the correct game client version"
+Unable to translate: "Client Version"
+Loaded module 'client_entergame'
+Loaded module 'client_terminal'
+Loaded module 'client_modulemanager'
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Unable to translate: "Disable chat mode, allow to walk using ASDW"
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Unable to translate: "Open purse"
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Unable to translate: "Hold left mouse button to navigate
+Scroll mouse middle button to zoom
+Right mouse button to create map marks
+Press Ctrl+Shift+M to view the entire game map"
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+Unable to translate: "Reset selection, filters & search"
+Unable to translate: "Buyer Name"
+Unable to translate: "Auction End"
+Unable to translate: "Seller Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Loaded module 'game_market'
+Unable to translate: "Filters"
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+ERROR: Unable to find module 'game_unjustifiedpoints' required by 'game_interface'
+Startup done :]
+Exiting application..
+ERROR: Unable to unload module 'game_hotkeys': LUA ERROR:
+/game_hotkeys/hotkeys_manager.lua:93: attempt to index global 'hotkeysButton' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/game_hotkeys/hotkeys_manager.lua:93: in function 'terminate'
+	/game_hotkeys/hotkeys_manager.otmod:9:[@onUnload]:1: in main chunk
+ERROR: Unable to unload module 'client_modulemanager': LUA ERROR:
+/client_modulemanager/modulemanager.lua:25: attempt to index upvalue 'moduleManagerButton' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/client_modulemanager/modulemanager.lua:25: in function 'terminate'
+	/client_modulemanager/modulemanager.otmod:10:[@onUnload]:1: in main chunk
+WARNING: widget 'widget196' was not explicitly destroyed
+== application started at May 24 2020 22:45:03
+OTClient 0.6.3 rev 2474 (custom) built on Dec 11 2015 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+Locale 'pt' is missing 19 translations.
+Using configured locale: pt
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Unable to translate: "Don't stretch/shrink Game Window"
+Loaded module 'client_options'
+Unable to translate: "Authenticator Token"
+Unable to translate: "Stay logged during session"
+Unable to translate: "Make sure that your client uses
+the correct game client version"
+Unable to translate: "Client Version"
+Loaded module 'client_entergame'
+Loaded module 'client_terminal'
+Loaded module 'client_modulemanager'
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Unable to translate: "Disable chat mode, allow to walk using ASDW"
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Unable to translate: "Open purse"
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Unable to translate: "Hold left mouse button to navigate
+Scroll mouse middle button to zoom
+Right mouse button to create map marks
+Press Ctrl+Shift+M to view the entire game map"
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+Unable to translate: "Reset selection, filters & search"
+Unable to translate: "Buyer Name"
+Unable to translate: "Auction End"
+Unable to translate: "Seller Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Loaded module 'game_market'
+Unable to translate: "Filters"
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+ERROR: Unable to find module 'game_unjustifiedpoints' required by 'game_interface'
+Startup done :]
+Exiting application..
+ERROR: Unable to unload module 'game_hotkeys': LUA ERROR:
+/game_hotkeys/hotkeys_manager.lua:93: attempt to index global 'hotkeysButton' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/game_hotkeys/hotkeys_manager.lua:93: in function 'terminate'
+	/game_hotkeys/hotkeys_manager.otmod:9:[@onUnload]:1: in main chunk
+ERROR: Unable to unload module 'client_modulemanager': LUA ERROR:
+/client_modulemanager/modulemanager.lua:25: attempt to index upvalue 'moduleManagerButton' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/client_modulemanager/modulemanager.lua:25: in function 'terminate'
+	/client_modulemanager/modulemanager.otmod:10:[@onUnload]:1: in main chunk
+ERROR: Unable to unload module 'client_terminal': LUA ERROR:
+/client_terminal/terminal.lua:200: attempt to index upvalue 'terminalButton' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/client_terminal/terminal.lua:200: in function 'terminate'
+	/client_terminal/terminal.otmod:9:[@onUnload]:1: in main chunk
+WARNING: widget 'widget195' was not explicitly destroyed
+== application started at May 24 2020 22:46:50
+OTClient 0.6.3 rev 2474 (custom) built on Dec 11 2015 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+Locale 'pt' is missing 19 translations.
+Using configured locale: pt
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Unable to translate: "Don't stretch/shrink Game Window"
+Loaded module 'client_options'
+Unable to translate: "Authenticator Token"
+Unable to translate: "Stay logged during session"
+Unable to translate: "Make sure that your client uses
+the correct game client version"
+Unable to translate: "Client Version"
+ERROR: Unable to load module 'client_entergame': LUA ERROR:
+/client_entergame/entergame.lua:107: attempt to index upvalue 'motdButton' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/client_entergame/entergame.lua:107: in function 'init'
+	/client_entergame/entergame.otmod:10:[@onLoad]:3: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:42: in main chunk
+Loaded module 'client_terminal'
+Loaded module 'client_modulemanager'
+Unable to translate: "Authenticator Token"
+Unable to translate: "Stay logged during session"
+Unable to translate: "Make sure that your client uses
+the correct game client version"
+Unable to translate: "Client Version"
+ERROR: Unable to load module 'client_entergame': LUA ERROR:
+/client_entergame/entergame.lua:107: attempt to index upvalue 'motdButton' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/client_entergame/entergame.lua:107: in function 'init'
+	/client_entergame/entergame.otmod:10:[@onLoad]:3: in main chunk
+	[C]: in function 'ensureModuleLoaded'
+	/init.lua:42: in main chunk
+ERROR: Unable to load module 'client_serverlist': dependency 'client_entergame' has failed to load
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Unable to translate: "Disable chat mode, allow to walk using ASDW"
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Unable to translate: "Open purse"
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Unable to translate: "Hold left mouse button to navigate
+Scroll mouse middle button to zoom
+Right mouse button to create map marks
+Press Ctrl+Shift+M to view the entire game map"
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+Unable to translate: "Reset selection, filters & search"
+Unable to translate: "Buyer Name"
+Unable to translate: "Auction End"
+Unable to translate: "Seller Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Loaded module 'game_market'
+Unable to translate: "Filters"
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+ERROR: Unable to find module 'game_unjustifiedpoints' required by 'game_interface'
+Startup done :]
+ERROR: protected lua call failed: LUA ERROR:
+/client_entergame/entergame.otui:117: [@onClick]:2: attempt to index global 'ServerList' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/client_entergame/entergame.otui:117: [@onClick]:2: in function </client_entergame/entergame.otui:117: [@onClick]:1>
+ERROR: protected lua call failed: LUA ERROR:
+/client_entergame/entergame.otui:117: [@onClick]:2: attempt to index global 'ServerList' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/client_entergame/entergame.otui:117: [@onClick]:2: in function </client_entergame/entergame.otui:117: [@onClick]:1>
+ERROR: protected lua call failed: LUA ERROR:
+/client_entergame/entergame.otui:117: [@onClick]:2: attempt to index global 'ServerList' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/client_entergame/entergame.otui:117: [@onClick]:2: in function </client_entergame/entergame.otui:117: [@onClick]:1>
+ERROR: protected lua call failed: LUA ERROR:
+/client_entergame/entergame.otui:117: [@onClick]:2: attempt to index global 'ServerList' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/client_entergame/entergame.otui:117: [@onClick]:2: in function </client_entergame/entergame.otui:117: [@onClick]:1>
+ERROR: protected lua call failed: LUA ERROR:
+/client_entergame/entergame.otui:117: [@onClick]:2: attempt to index global 'ServerList' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/client_entergame/entergame.otui:117: [@onClick]:2: in function </client_entergame/entergame.otui:117: [@onClick]:1>
+ERROR: protected lua call failed: LUA ERROR:
+/client_entergame/entergame.otui:117: [@onClick]:2: attempt to index global 'ServerList' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/client_entergame/entergame.otui:117: [@onClick]:2: in function </client_entergame/entergame.otui:117: [@onClick]:1>
+ERROR: protected lua call failed: LUA ERROR:
+/client_entergame/entergame.otui:117: [@onClick]:2: attempt to index global 'ServerList' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/client_entergame/entergame.otui:117: [@onClick]:2: in function </client_entergame/entergame.otui:117: [@onClick]:1>
+Exiting application..
+ERROR: Unable to unload module 'game_hotkeys': LUA ERROR:
+/game_hotkeys/hotkeys_manager.lua:93: attempt to index global 'hotkeysButton' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/game_hotkeys/hotkeys_manager.lua:93: in function 'terminate'
+	/game_hotkeys/hotkeys_manager.otmod:9:[@onUnload]:1: in main chunk
+ERROR: Unable to unload module 'client_modulemanager': LUA ERROR:
+/client_modulemanager/modulemanager.lua:25: attempt to index upvalue 'moduleManagerButton' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/client_modulemanager/modulemanager.lua:25: in function 'terminate'
+	/client_modulemanager/modulemanager.otmod:10:[@onUnload]:1: in main chunk
+ERROR: Unable to unload module 'client_terminal': LUA ERROR:
+/client_terminal/terminal.lua:200: attempt to index upvalue 'terminalButton' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/client_terminal/terminal.lua:200: in function 'terminate'
+	/client_terminal/terminal.otmod:9:[@onUnload]:1: in main chunk
+WARNING: widget 'widget191' was not explicitly destroyed
+== application started at May 24 2020 22:47:13
+OTClient 0.6.3 rev 2474 (custom) built on Dec 11 2015 for arch x86
+Loaded module 'corelib'
+Loaded module 'game_things'
+Loaded module 'gamelib'
+Loaded module 'client'
+Loaded module 'client_styles'
+Locale 'pl' is missing 1 translations.
+Locale 'pt' is missing 19 translations.
+Using configured locale: pt
+Loaded module 'client_locales'
+Loaded module 'client_topmenu'
+Loaded module 'client_background'
+Unable to translate: "Don't stretch/shrink Game Window"
+Loaded module 'client_options'
+Unable to translate: "Authenticator Token"
+Unable to translate: "Stay logged during session"
+Unable to translate: "Make sure that your client uses
+the correct game client version"
+Unable to translate: "Client Version"
+Loaded module 'client_entergame'
+Loaded module 'client_terminal'
+Loaded module 'client_modulemanager'
+Loaded module 'client_serverlist'
+Loaded module 'client_stats'
+Loaded module 'game_interface'
+Loaded module 'game_hotkeys'
+Loaded module 'game_questlog'
+Loaded module 'game_textmessage'
+Unable to translate: "Disable chat mode, allow to walk using ASDW"
+Loaded module 'game_console'
+Loaded module 'game_outfit'
+Loaded module 'game_healthinfo'
+Loaded module 'game_skills'
+Unable to translate: "Open purse"
+Loaded module 'game_inventory'
+Loaded module 'game_combatcontrols'
+Loaded module 'game_containers'
+Loaded module 'game_viplist'
+Loaded module 'game_battle'
+Unable to translate: "Hold left mouse button to navigate
+Scroll mouse middle button to zoom
+Right mouse button to create map marks
+Press Ctrl+Shift+M to view the entire game map"
+Loaded module 'game_minimap'
+Loaded module 'game_npctrade'
+Loaded module 'game_textwindow'
+Loaded module 'game_playertrade'
+Loaded module 'game_bugreport'
+Loaded module 'game_playerdeath'
+Loaded module 'game_playermount'
+Loaded module 'game_ruleviolation'
+Unable to translate: "Reset selection, filters & search"
+Unable to translate: "Buyer Name"
+Unable to translate: "Auction End"
+Unable to translate: "Seller Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Unable to translate: "Item Name"
+Unable to translate: "Auction End"
+Loaded module 'game_market'
+Unable to translate: "Filters"
+Loaded module 'game_spelllist'
+Loaded module 'game_cooldown'
+Loaded module 'game_modaldialog'
+ERROR: Unable to find module 'game_unjustifiedpoints' required by 'game_interface'
+Startup done :]
+Exiting application..
+ERROR: Unable to unload module 'game_hotkeys': LUA ERROR:
+/game_hotkeys/hotkeys_manager.lua:93: attempt to index global 'hotkeysButton' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/game_hotkeys/hotkeys_manager.lua:93: in function 'terminate'
+	/game_hotkeys/hotkeys_manager.otmod:9:[@onUnload]:1: in main chunk
+ERROR: Unable to unload module 'client_modulemanager': LUA ERROR:
+/client_modulemanager/modulemanager.lua:25: attempt to index upvalue 'moduleManagerButton' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/client_modulemanager/modulemanager.lua:25: in function 'terminate'
+	/client_modulemanager/modulemanager.otmod:10:[@onUnload]:1: in main chunk
+ERROR: Unable to unload module 'client_terminal': LUA ERROR:
+/client_terminal/terminal.lua:200: attempt to index upvalue 'terminalButton' (a nil value)
+stack traceback:
+	[C]: in function '__index'
+	/client_terminal/terminal.lua:200: in function 'terminate'
+	/client_terminal/terminal.otmod:9:[@onUnload]:1: in main chunk
+WARNING: widget 'widget195' was not explicitly destroyed
